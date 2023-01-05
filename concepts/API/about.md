@@ -1,21 +1,18 @@
-# Näidis sisuteema
+# API
 
-## Sissejuhatus
+## API - Application Programming Interface
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget mauris pharetra et ultrices. Sem nulla pharetra diam sit amet. Habitant morbi tristique senectus et netus et. 
+Selle kursuse kontekstis on mõeldud üle http töötavat API-t.
 
-## Suurema teema pealkiri
+- Liides, mille kaudu süsteemid saavad omavahel infot jagada
+- Backend - frontend
+- Backend - backend
+- Andmed, mida vahetatakse on sageli JSON kujul
 
-### Alateema
+Endpoint - aadress, millele pöördudes saab API-le päringuid teha.
+Näiteks Githubi API endpoindid: https://docs.github.com/en/rest/overview/endpoints-available-for-github-apps
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget mauris pharetra et ultrices.
+Põhimõtteliselt on tegemist päringu saatmisega mingile aadressile, kust saab vastuseks mingi info. Näiteks https://dog-facts-api.herokuapp.com/api/v1/resources/dogs/all aadressile pöördumisel saab vastuseks nimekirja suvalistest faktidest koerte kohta.
+Enamasti saab API poole pöördudes saata API-le ka täiendavat informatsiooni, mille abil on võimalik piirata vastusena saadavate tulemuste arvu (näiteks otsing, sorteerimine jne). Eelnevalt näidisena toodud API-le on võimalik lisada nn query parameetrina number, mis piirab tagastatavate vastuste arvu: https://dog-facts-api.herokuapp.com/api/v1/resources/dogs?number=2
 
-### Alateema
-
-Quam quisque id diam vel quam elementum pulvinar etiam non. Condimentum lacinia quis vel eros donec ac odio tempor orci. Lacus sed turpis tincidunt id aliquet risus feugiat in. Neque vitae tempus quam pellentesque nec nam. Consectetur a erat nam at lectus urna duis convallis.
-
-## Suurema teema pealkiri
-
-### Alateema
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget mauris pharetra et ultrices.
+Valikut tasuta kasutatavatest API-dest näeb näiteks siit: https://github.com/public-apis/public-apis
