@@ -1,0 +1,10 @@
+[
+  {
+    "url": "https://docs.github.com/en/rest/overview/endpoints-available-for-github-apps",
+    "description": "Githubi API"
+  },
+  {
+    "url": "https://dog-facts-api.herokuapp.com/api/v1/resources/dogs/all",
+    "description": "Suvalised faktid koerte kohta API"
+  }
+]

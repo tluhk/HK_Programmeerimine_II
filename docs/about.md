@@ -1,24 +1,38 @@
 # Kursuse ülesehitus
 
-_siia kirjuta üldiselt ainekursuse sisust_
+- Kursusel loob iga üliõpilane oma versiooni HK TLU tunniplaani lehekülje (start.hk.tlu.ee) API-st.
+- Soovi korral (näiteks, kui saab projekti siduda mõnes teises aines tehtava tööga või kui üliõpilasel on mõni oma projekt, mida saab selle kursuse jooksul teha) võib teha ka mõne muu projekti.
+- Igas loengus võtame ette ühe teema ja teeme loengu jooksul ülesandeid näidisprojekti raames.
+- Kodusteks ülesanneteks jääb tavaliselt loengus tehtu rakendamine oma projektis. Koduse ülesande lahenduseks tuleb enne järgmist loengut esitada aruanne selle kohta, mis on vahepeal tehtud, mis olid probleemid ja nende lahendused. Aruanne on vabas formaadis ja ei pea olema pikk.
+- Iga tehtud kodune töö ja esitatud aruanne annab 5% lõpphindest (kokku 25%).
 
-**Eesmärgid:** _siia kirjuta ainekursuse eesmärgid_
+**Eesmärgid:**
 
-**Õpiväljundid**: _siia kirjuta ainekursuse õpiväljundid_
+Kursusel loob iga üliõpilane oma versiooni HK TLU tunniplaani lehekülje (start.hk.tlu.ee) API-st.
 
+
+**Õpiväljundid**:
+
+Üliõpilane loob Node.js baasil töötava CRUD API.
 
 ## Hindamismudel
 
-_siin kirjelda ainekursuse hindamismudelit, näiteks:_
+Hinne moodustub üliõpilase poolt loodud projekti baasil:
 
-Hinne moodustub 50% kodustest töödest (iga kodune töö annab 10% hindest) ja 75% kirjalikust eksamist.
+25% iseseisvad tööd
 
-Eksam on välja töötatud eelnevalt paika pandud õpiväljundite alusel. Iga loengus õpitud teema kohta on koostatud küsimused avatud vastustega või valikvastustega. Peale eksami tulemuste selgumist saab iga üliõpilane individuaalse tagasiside oma eksami tulemuste kohta.
+25% moodustab projekti kaitsmine
 
-Kursuse hinne moodustub järgmiselt:
-* „A” - suurepärane 91-100%
-* „B” - väga hea 81- 90%
-* „C” - hea 71- 80%
-* „D” - rahuldav 61-70%
-* „E” - kasin 51- 60%
-* „F” - puudulik 0 – 50%
+50% erinevate kriteeriumite täitmine (Kodused tööd, kogu kood algusest peale githubis, programmi struktuur, autentimise ja autoriseerimise olemasolu, koodi testitavus jne)
+
+„A” - suurepärane 91-100%
+
+„B” - väga hea 81- 90%
+
+„C” - hea 71- 80%
+
+„D” - rahuldav 61-70%
+
+„E” - kasin 51- 60%
+
+„F” - puudulik 0 – 50%

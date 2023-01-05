@@ -1,8 +1,8 @@
 { 
-  "courseName": "Kursuse näide",
-  "courseCode": "HK1234.HK",
-  "slug": "kursuse_naide",
-  "courseUrl": "https://ois2.tlu.ee/tluois/aine/HK1234.HK",
+  "courseName": "Programmeerimine II",
+  "courseCode": "HKI5003.HK",
+  "slug": "programmeerimine_II",
+  "courseUrl": "https://ois2.tlu.ee/tluois/aine/HKI5003.HK",
   "active": true,
   "docs": [
     {
