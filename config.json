@@ -20,7 +20,7 @@
     {
       "name": "Loeng 1",
       "slug": "loeng_01",
-      "components": ["Sissejuhatus", "API"],
+      "components": ["sissejuhatus", "API"],
       "additionalMaterials": [
         {
           "slug": "lisamaterjalid",
