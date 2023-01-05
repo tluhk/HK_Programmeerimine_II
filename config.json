@@ -1,0 +1,48 @@
+{ 
+  "courseName": "Kursuse näide",
+  "courseCode": "HK1234.HK",
+  "slug": "kursuse_naide",
+  "courseUrl": "https://ois2.tlu.ee/tluois/aine/HK1234.HK",
+  "active": true,
+  "docs": [
+    {
+      "slug": "about",
+      "name": "Ainekursusest"
+    }
+  ],
+  "additionalMaterials": [
+    {
+      "slug": "lisamaterjalid",
+      "name": "Aine lisamaterjalid"
+    }
+  ],
+  "lessons": [
+    {
+      "name": "Loeng 1 (näidisfailid)",
+      "slug": "loeng_01",
+      "components": ["naidis-sisuteema", "sisu-loomise-juhend", "praktikum_01"],
+      "additionalMaterials": [
+        {
+          "slug": "lisamaterjalid",
+          "name": "Loengu lisamaterjalid"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "naidis-sisuteema",
+      "name": "Näidis Sisuteema"
+    },
+    {
+      "slug": "sisu-loomise-juhend",
+      "name": "Sisu loomise juhend"
+    }
+  ],
+  "practices": [
+    {
+      "slug": "praktikum_01",
+      "name": "Näidis Praktikum"
+    }
+  ]
+}
