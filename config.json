@@ -18,9 +18,9 @@
   ],
   "lessons": [
     {
-      "name": "Loeng 1 (näidisfailid)",
+      "name": "Loeng 1",
       "slug": "loeng_01",
-      "components": ["naidis-sisuteema", "sisu-loomise-juhend", "praktikum_01"],
+      "components": ["Sissejuhatus", "API"],
       "additionalMaterials": [
         {
           "slug": "lisamaterjalid",
@@ -31,12 +31,12 @@
   ],
   "concepts": [
     {
-      "slug": "naidis-sisuteema",
-      "name": "Näidis Sisuteema"
+      "slug": "sissejuhatus",
+      "name": "Sissejuhatus"
     },
     {
-      "slug": "sisu-loomise-juhend",
-      "name": "Sisu loomise juhend"
+      "slug": "API",
+      "name": "API"
     }
   ],
   "practices": [
