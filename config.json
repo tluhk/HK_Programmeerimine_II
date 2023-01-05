@@ -20,7 +20,7 @@
     {
       "name": "Loeng 1",
       "slug": "loeng_01",
-      "components": ["sissejuhatus", "API"],
+      "components": ["Sissejuhatus", "API"],
       "additionalMaterials": [
         {
           "slug": "lisamaterjalid",
@@ -31,7 +31,7 @@
   ],
   "concepts": [
     {
-      "slug": "sissejuhatus",
+      "slug": "Sissejuhatus",
       "name": "Sissejuhatus"
     },
     {
