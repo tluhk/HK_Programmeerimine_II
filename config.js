@@ -29,12 +29,12 @@
   ],
   "concepts": [
     {
-      "slug": "sissejuhatus",
+      "slug": "SISSEjuhatus",
       "name": "Sissejuhatus",
       "uuid": "1a904ddf-1703-418e-88b6-2fd35405ecac"
     },
     {
-      "slug": "api",
+      "slug": "Api",
       "name": "API",
       "uuid": "fc10e172-8c46-4202-80bc-1c6cfdaeaa62"
     }
