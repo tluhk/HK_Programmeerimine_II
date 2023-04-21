@@ -29,7 +29,7 @@
   ],
   "concepts": [
     {
-      "slug": "Sissejuhatus",
+      "slug": "sissejuhatus",
       "name": "Sissejuhatus",
       "uuid": "1a904ddf-1703-418e-88b6-2fd35405ecac"
     },
