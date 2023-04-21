@@ -34,7 +34,7 @@
       "uuid": "1a904ddf-1703-418e-88b6-2fd35405ecac"
     },
     {
-      "slug": "API",
+      "slug": "api",
       "name": "API",
       "uuid": "fc10e172-8c46-4202-80bc-1c6cfdaeaa62"
     }
